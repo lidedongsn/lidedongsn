@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on RTC
+
+<summary>My GitHub Stats</summary>
+
+![lidedongsn's github stats](https://github-readme-stats.vercel.app/api?username=lidedongsn&theme=vue&show_icons=true)
+
+</details>
