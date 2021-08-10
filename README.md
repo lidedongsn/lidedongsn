@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <details>
 <summary>My GitHub Stats</summary>
 
-![lidedongsn's github stats](https://github-readme-stats.vercel.app/api?username=lidedongsn&theme=vue&show_icons=true)
+![lidedongsn's github stats](https://github-readme-stats.vercel.app/api?username=lidedongsn&theme=radical&show_icons=true)
+  
+![lidedongsn's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lidedongsn&layout=compact&theme=radical)
 
 </details>
