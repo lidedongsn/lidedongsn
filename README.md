@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on RTC
 
+<details>
 <summary>My GitHub Stats</summary>
 
 ![lidedongsn's github stats](https://github-readme-stats.vercel.app/api?username=lidedongsn&theme=vue&show_icons=true)
